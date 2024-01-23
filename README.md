@@ -5,13 +5,13 @@ A web application that leverages Google Firestore, the Spotify API, the Google C
 The app’s core functionality revolves around the everyday experience of adding songs to your Spotify library, playing those recent few for on repeat for a while, then moving on to the latest batch of new songs, inevitably pushing those other tracks back into the shadows. A lot of users only ever listen to what’s at the top of the library, and old favorites get buried under heaps of new additions. My app addresses this unfortunate phenomenon by resurrecting these overlooked tracks, creating a curated playlist that serves as an auditory time capsule. 
 
 ## Features
-Playlist automatically written to Spotify account with title, unique description, and 15-song selection 
-Users can “Make Another” as many times as they please, resulting in a different selection each time. 
+- Playlist automatically written to Spotify account with title, unique description, and 15-song selection 
+- Users can “Make Another” as many times as they please, resulting in a different selection each time. 
 
 ## Flow
-Log into your Spotify account
-Log into your Google Calendar account
-Sit back and relax while the app curates your playlist. 
+1. Log into your Spotify account
+2. Log into your Google Calendar account
+3. Sit back and relax while the app curates your playlist. 
 
 ## Limitations
 The project is currently undergoing approval processes with Spotify and Google for production-level deployment, meaning users must be approved on my end before use in the meantime. If you’re interested in trying out the most recent development-level version, feel free to reach out and I’d be happy to set that up. 
