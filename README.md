@@ -14,7 +14,7 @@ The app’s core functionality revolves around the everyday experience of adding
 3. Sit back and relax while the app curates your playlist. 
 
 ## Limitations
-The project is currently undergoing approval processes with Spotify and Google for production-level deployment, meaning users must be approved on my end before use in the meantime. If you’re interested in trying out the most recent development-level version, feel free to [reach out](https://www.linkedin.com/in/geneva-ng/) and I’d be happy to set that up. 
+The project is currently undergoing preparation for the approval processes with Spotify and Google for production-level deployment, meaning users must be approved on my end before use in the meantime. If you’re interested in trying out the most recent development-level version, feel free to [reach out](https://www.linkedin.com/in/geneva-ng/) and I’d be happy to set that up. 
 
 ## Future Improvements
 Fine-tune the NLP feature to deliver higher quality descriptions, and code up an entertaining loading animation. 
