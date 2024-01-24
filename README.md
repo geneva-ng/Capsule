@@ -17,4 +17,6 @@ The app’s core functionality revolves around the everyday experience of adding
 The project is currently undergoing preparation for the approval processes with Spotify and Google for production-level deployment, meaning users must be approved on my end before use in the meantime. If you’re interested in trying out the most recent development-level version, feel free to [reach out](https://www.linkedin.com/in/geneva-ng/) and I’d be happy to set that up. 
 
 ## Future Improvements
-Fine-tune the NLP feature to deliver higher quality descriptions, and code up an entertaining loading animation. 
+- Fine-tune the NLP feature to deliver higher quality descriptions
+- Code up an entertaining loading animation.
+- Allow the user to select _which_ Google Calendar to read events from. Some users have sentimental events saved to a specific calendar aside from the default user calendar; this version currently only reads the default. 
