@@ -1,5 +1,3 @@
-#### DO NOT EDIT
-
 import pytz
 from datetime import datetime
 
