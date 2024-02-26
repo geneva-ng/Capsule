@@ -19,4 +19,11 @@ The project is currently undergoing preparation for the approval processes with 
 ## Future Improvements
 - Fine-tune the NLP feature to deliver higher quality descriptions
 - Code up an entertaining loading animation.
-- Allow the user to select _which_ Google Calendar to read events from. Some users have sentimental events saved to a specific calendar aside from the default user calendar; this version currently only reads the default. 
+- Allow the user to select _which_ Google Calendar to read events from. Some users have sentimental events saved to a specific calendar aside from the default user calendar; this version currently only reads the default.
+
+![/screenshots/Home.png]
+![/screenshots/Loading.png]
+![/screenshots/Make Another.png]
+![/screenshots/Capsule1.png]
+![/screenshots/Capsule2.png]
+
