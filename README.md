@@ -21,9 +21,9 @@ The project is currently undergoing preparation for the approval processes with 
 - Code up an entertaining loading animation.
 - Allow the user to select _which_ Google Calendar to read events from. Some users have sentimental events saved to a specific calendar aside from the default user calendar; this version currently only reads the default.
 
-![/screenshots/Home.png]
-![/screenshots/Loading.png]
-![/screenshots/Make Another.png]
-![/screenshots/Capsule1.png]
-![/screenshots/Capsule2.png]
+![home](/screenshots/Home.png)
+![loading](/screenshots/Loading.png)
+![make_another](/screenshots/Make Another.png)
+![capsule1](/screenshots/Capsule1.png)
+![capsule2](/screenshots/Capsule2.png)
 
