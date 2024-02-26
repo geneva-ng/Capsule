@@ -23,7 +23,7 @@ The project is currently undergoing preparation for the approval processes with 
 
 ![home](/screenshots/Home.png)
 ![loading](/screenshots/Loading.png)
-![make_another](/screenshots/Make Another.png)
+![make_another](/screenshots/Make_Another.png)
 ![capsule1](/screenshots/Capsule1.png)
 ![capsule2](/screenshots/Capsule2.png)
 
